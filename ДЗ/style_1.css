@@ -1,0 +1,16 @@
+.body {
+    background-image: url();
+}
+.text {
+    font-family: monospace;
+    font-size: 55pt;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+}
+@keyframes text-animate {
+    
+}
+@keyframes body-animate {
+
+}
